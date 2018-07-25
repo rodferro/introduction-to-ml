@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 
 cache/
+data/aclImdb
 
 *.dot
 *.png
